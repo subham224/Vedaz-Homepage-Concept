@@ -1,7 +1,7 @@
 
   # Vedaz Homepage Concept
 
-  This is a code bundle for Vedaz Homepage Concept. The original project is available at https://www.figma.com/design/MQPbq0BMGWW5WvuMCWvgUW/Vedaz-Homepage-Concept.
+  Final Deployed Frontend of Vedaz Homepage Concept is available at https://vedaz-homepage-concept.vercel.app/.
 
   ## Running the code
 
